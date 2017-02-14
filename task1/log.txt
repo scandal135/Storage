@@ -1,0 +1,11 @@
+commit 9c119824a926adc033e69f362cdce65ed3c4db58
+Author: Aleksei Karmaza <aleksejj-karmaza@mail.ru>
+Date:   Tue Feb 14 13:01:43 2017 +0300
+
+    add status.txt
+
+commit 2b85f01ae9c762091e1ff66980cdcaa6fbc50871
+Author: Aleksei Karmaza <aleksejj-karmaza@mail.ru>
+Date:   Tue Feb 14 12:59:49 2017 +0300
+
+    add .gitignore
