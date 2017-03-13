@@ -1,0 +1,41 @@
+.header{
+	color: red;
+	height: 60px;
+	max-height: 200px;
+	padding: 10px;
+}
+
+.filters{
+	padding-left: 40px;
+	line-height: 1.5;
+
+}
+.news_container{
+	position: relative;
+	left: 50%;
+	top:20px;
+	width: 800px;
+	margin-left: -400px; 
+	
+    
+	
+}
+
+.news{
+	line-height: 1.5;
+	max-width: 100%;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+ 	margin-top: 10px;
+        background-color:rgb(230, 233, 239);
+
+}
+
+footer{
+	
+	margin-top: 40px;
+	background-color: red;
+	opacity: 0.9;
+	height: 30px;
+}
