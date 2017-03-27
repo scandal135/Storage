@@ -3,20 +3,25 @@
 	height: 60px;
 	max-height: 200px;
 	padding: 10px;
+	line-height: 0.6;
 }
 
-.filters{
+ #user{
+    
+}
+
+#filters{
 	padding-left: 40px;
 	line-height: 1.5;
 
 }
-.news_container{
+#news_container{
 	position: relative;
 	left: 50%;
 	top:20px;
 	width: 800px;
 	margin-left: -400px; 
-	
+
     
 	
 }
@@ -28,14 +33,25 @@
 	padding-bottom: 10px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
  	margin-top: 10px;
-        background-color:rgb(230, 233, 239);
+    background-color:rgb(230, 233, 239);
+     
 
 }
 
 footer{
 	
-	margin-top: 40px;
+	/*margin-top: 40px;
 	background-color: red;
 	opacity: 0.9;
-	height: 30px;
+	height: 30px;*/
+
+  
+position: fixed; 
+    left: 0; bottom: 0; 
+    height: 30;
+    background-color: red; 
+    color: #fff; 
+    width: 100%; 
+
+
 }
