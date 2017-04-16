@@ -21,9 +21,34 @@
 	top:20px;
 	width: 800px;
 	margin-left: -400px; 
-
+	padding-bottom: 20px;////
+    
     
 	
+}
+
+#show_1_news{
+	position: relative;
+	left: 50%;
+	top:20px;
+	width: 800px;
+	margin-left: -400px; 
+    word-wrap: break-word;
+    display: none;
+	
+}
+
+
+
+#enter_page{
+	position: relative;
+	left: 70%;
+	top:100px;
+	width: 800px;
+	margin-left: -400px; 
+	line-height: 1.5;
+	display: none;
+
 }
 
 .news{
@@ -55,3 +80,4 @@ position: fixed;
 
 
 }
+
